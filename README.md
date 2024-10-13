@@ -9,5 +9,7 @@
 - Collect Apples
 - Avoid running into yourself
 - ## How to download
+- Simply download and run the first release .jar file
+- If you'd like to find it yourself, continue with the following steps:
 - Download the zip of the repository
 - Navigate to and open the Snake '.jar' in artifacts
